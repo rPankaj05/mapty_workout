@@ -16,6 +16,9 @@
 ####  Used GEOLOCATION API to get the position of workout on the map.
 
 
+### [🔴 Click here for Live Site](https://the-mapty-workout.netlify.app/)
+
+
 ## Screenshots of the app
 ![Asking for location access](https://user-images.githubusercontent.com/96940234/161354824-bf141598-ce68-486e-a29d-91ecf6a25961.png)
 ![Screenshot (178)](https://user-images.githubusercontent.com/96940234/161354827-4c2e3862-2a70-4320-addf-367e085876e0.png)
